@@ -15,4 +15,4 @@ Projeto construido no evento Next Level Week da Rockets
 
 ## 📧 Contatos
 
-heitorbbtc@g,mail.com
+heitorbbtc@g.mail.com
