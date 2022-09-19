@@ -7,7 +7,7 @@ Projeto construido no evento Next Level Week da Rockets
 
 [Clique aqui para acessar](https://heitorbbtc.github.io/nlw/)
 
-## 🛠 happy Tecnologias 
+## 🛠 Tecnologias 
 
 -HTML
 -CSS
